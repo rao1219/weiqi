@@ -1,0 +1,36 @@
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\bin\Debug\GoGame.exe.config
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\bin\Debug\GoGame.exe
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\bin\Debug\GoGame.pdb
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\obj\Debug\GoGame.csprojResolveAssemblyReference.cache
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\obj\Debug\GoGame.Form1.resources
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\obj\Debug\GoGame.Properties.Resources.resources
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\obj\Debug\GoGame.csproj.GenerateResource.Cache
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\obj\Debug\GoGame.exe
+c:\users\润涛\documents\visual studio 2015\Projects\GoGame\GoGame\obj\Debug\GoGame.pdb
+C:\csharp_gogame\GoGame\GoGame\bin\Debug\GoGame.exe.config
+C:\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.exe
+C:\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.pdb
+I:\goGame\csharp_gogame\GoGame\GoGame\bin\Debug\GoGame.exe.config
+I:\goGame\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.csprojResolveAssemblyReference.cache
+I:\goGame\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.Properties.Resources.resources
+I:\goGame\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.ServerForm.resources
+I:\goGame\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.csproj.GenerateResource.Cache
+C:\csharp_gogame\GoGame\GoGame\bin\Debug\GoGame.exe
+C:\csharp_gogame\GoGame\GoGame\bin\Debug\GoGame.pdb
+C:\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.csprojResolveAssemblyReference.cache
+C:\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.Properties.Resources.resources
+C:\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.ServerForm.resources
+C:\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.csproj.GenerateResource.Cache
+I:\goGame\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.exe
+I:\goGame\csharp_gogame\GoGame\GoGame\obj\Debug\GoGame.pdb
+I:\goGame\csharp_gogame\GoGame\GoGame\bin\Debug\GoGame.exe
+I:\goGame\csharp_gogame\GoGame\GoGame\bin\Debug\GoGame.pdb
+C:\csharp_gogame\GoGame\GoGame\GoGame\bin\Debug\GoGame.exe.config
+C:\csharp_gogame\GoGame\GoGame\GoGame\obj\Debug\GoGame.exe
+C:\csharp_gogame\GoGame\GoGame\GoGame\obj\Debug\GoGame.pdb
+C:\csharp_gogame\GoGame\GoGame\GoGame\bin\Debug\GoGame.exe
+C:\csharp_gogame\GoGame\GoGame\GoGame\bin\Debug\GoGame.pdb
+C:\csharp_gogame\GoGame\GoGame\GoGame\obj\Debug\GoGame.csprojResolveAssemblyReference.cache
+C:\csharp_gogame\GoGame\GoGame\GoGame\obj\Debug\GoGame.Properties.Resources.resources
+C:\csharp_gogame\GoGame\GoGame\GoGame\obj\Debug\GoGame.ServerForm.resources
+C:\csharp_gogame\GoGame\GoGame\GoGame\obj\Debug\GoGame.csproj.GenerateResource.Cache

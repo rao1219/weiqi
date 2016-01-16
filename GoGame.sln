@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGame", "GoGame\GoGame.csproj", "{35F21721-6044-493E-B0A0-C57277510CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGame_Client", "GoGame_Client\GoGame_Client.csproj", "{D75BBB16-2519-41A7-A3FA-BAE1937E8046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F21721-6044-493E-B0A0-C57277510CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F21721-6044-493E-B0A0-C57277510CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F21721-6044-493E-B0A0-C57277510CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F21721-6044-493E-B0A0-C57277510CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75BBB16-2519-41A7-A3FA-BAE1937E8046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75BBB16-2519-41A7-A3FA-BAE1937E8046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75BBB16-2519-41A7-A3FA-BAE1937E8046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75BBB16-2519-41A7-A3FA-BAE1937E8046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
